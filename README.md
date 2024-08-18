@@ -1,3 +1,15 @@
+## Next Cookie Issue PoC
+I'm replicating a bug where cookies are getting filtered out when sending from a different origin.
+
+## Notes
+
+### Utils
+`npx kill-port 3000`
+
+
+<details>
+<summary>Next.js README</summary>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
